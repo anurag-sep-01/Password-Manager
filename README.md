@@ -1,6 +1,6 @@
 # Hacktoberfest-2022 
 
-<p align = "right"> Maintained By Deepak Kumar </p>
+<p align = "right"> Maintained By abhishek </p>
 
 
 **This is a beginner-friendly project to help you get started with your
@@ -22,15 +22,6 @@ P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 Open source software is developed in a decentralized and collaborative way, relying on peer review and community production. Open source software is often cheaper, more flexible, and has more longevity than its proprietary peers because it is developed by communities rather than a single author or company.
 
 Open source has become a movement and a way of working that reaches beyond software production. The open source movement uses the values and decentralized production model of open source software to find new ways to solve problems in their communities and industries.</p>
-
-# Contribution Rules📚:
-
-- You are allowed to make pull requests that break the rules. We just merge it ;)
-- Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
-- Do NOT remove other content.
-- Styling/code can be pretty, ugly or stupid, big or small as long as it works
-- Add your name to the contributorsList file
-- Try to keep pull requests small to minimize merge conflicts
 
 
 ## Getting Started 🤩🤗:
