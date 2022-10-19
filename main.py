@@ -4,7 +4,7 @@ import random
 import pyperclip
 import json
 
-
+print("program is running ")
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 
 def pass_gen():
@@ -79,7 +79,7 @@ def add_detail():
 
 
 # ---------------------------- UI SETUP ------------------------------- #
-
+print(" Window pop up, UI shown ")
 window = Tk()
 window.title("Password Manager")
 window.config(padx=70, pady=70)
