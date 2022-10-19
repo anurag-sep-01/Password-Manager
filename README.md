@@ -127,8 +127,7 @@ For more information on syncing forks [read this article from Github](https://he
 
 ###### *We will do our best to merge as much as possible from everyone. However, time is limited and the merge conflicts are horrible :astonished: <3*
 <br>
-
 ## Our Top Contributors 
-<p align="center"><a href="https://github.com/itsmedeepak/Hacktoberfest-2022/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=itsmedeepak/Hacktoberfest-2022" />
+<p align="center"><a href="https://github.com/anurag-sep-01/Password-Manager/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=anurag-sep-01/Password-Manager" />
 </a></p>
