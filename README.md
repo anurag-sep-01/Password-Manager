@@ -13,6 +13,7 @@ Secure all your passwords in a single desktop app
 <ul>
 <li>Add new features </li>
 <li>Upgrade the user interface</li>
+<li> Make it more secure and add it to database </li>
 <li>Decrease and Increase code to make it more efficient and fast</li>
 </ul>
 
