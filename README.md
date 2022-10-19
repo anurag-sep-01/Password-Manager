@@ -10,6 +10,6 @@ It uses python tkinter module and json to save all the passwords
 Secure all you passwords in a single desktop app
 
 
-##Contribute
+<h1>Contribute</h1>
 
 Consider contributing by starring ⭐️ the repository
