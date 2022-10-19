@@ -7,8 +7,14 @@ The password generator uses randomized letters, numbers and symbol to generate p
 
 It uses python tkinter module and json to save all the passwords
 
-Secure all you passwords in a single desktop app
+Secure all your passwords in a single desktop app
 
+<h1>TODO</h1>
+<ul>
+<li>Add new features </li>
+<li>Upgrade the user interface</li>
+<li>Decrease and Increase code to make it more efficient and fast</li>
+</ul>
 
 <h1>Contribute</h1>
 
