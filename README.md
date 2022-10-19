@@ -1,5 +1,5 @@
 # Password-Manager
-It is desktop Password manager with User Interface and many more feature
+It is a desktop Password manager with User Interface and many more feature
 
 It generates unique passwords for any of you social media
 
