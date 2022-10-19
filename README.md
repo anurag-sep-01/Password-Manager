@@ -1,3 +1,4 @@
 # Password-Manager
 It is desktop Password manager with beautiful UI and some awesome feature
-[README.md](https://github.com/pixobia/Password-Manager/files/9823236/README.md)
+
+![pw-manager-hub-100729695-large](https://user-images.githubusercontent.com/111241047/196775298-7222f77c-da83-41aa-92dc-a69c7877a4f3.jpg)
