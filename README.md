@@ -39,7 +39,7 @@ Open source has become a movement and a way of working that reaches beyond softw
 - Clone on your local machine
 
 ```terminal
-git clone https://github.com/itsmedeepak/Hacktoberfest-2022.git
+git clone https://github.com/anurag-sep-01/Password-Manager.git
 ```
 - Navigate to project directory.
 ```terminal
