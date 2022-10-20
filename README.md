@@ -1,10 +1,12 @@
+
+# Password-Manager
+
 It is a desktop Password manager with User Interface and many more feature
 It generates unique passwords for any of you social media
 The password generator uses randomized letters, numbers and symbol to generate passwords which wont be abled to cracked or guessed easily
 
  It uses python tkinter module and json to save all the passwords
 
- Secure all you passwords in a single desktop app
  Secure all your passwords in a single desktop app
 
  <h1>TODO</h1>
