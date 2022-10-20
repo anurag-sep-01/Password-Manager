@@ -1,4 +1,23 @@
-# Hacktoberfest-2022 
+It is a desktop Password manager with User Interface and many more feature
+It generates unique passwords for any of you social media
+The password generator uses randomized letters, numbers and symbol to generate passwords which wont be abled to cracked or guessed easily
+
+ It uses python tkinter module and json to save all the passwords
+
+ Secure all you passwords in a single desktop app
+ Secure all your passwords in a single desktop app
+
+ <h1>TODO</h1>
+ <ul>
+ <li>Add new features </li>
+ <li>Upgrade the user interface</li>
+ <li>Decrease and Increase code to make it more efficient and fast</li>
+ </ul>
+
+ <h1>Contribute</h1>
+
+Consider contributing by starring ⭐️ the repository and sharing this repository 
+<h1>Hacktoberfest-2022 </h1>
 
 <p align = "right"> Maintained By abhishek </p>
 
@@ -6,7 +25,7 @@
 **This is a beginner-friendly project to help you get started with your
 [hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below, and read the contribution rules. Happy Learning <3 💙 !!**
 
-P.S. Star ⭐ and Share this repository, if you had fun!! 😍
+
 
 ![hacktoberfestbanner](https://user-images.githubusercontent.com/97526225/194758000-e3c8a909-57c4-4806-8ba4-ed70492b0930.jpeg)
 
